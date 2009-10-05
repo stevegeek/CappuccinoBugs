@@ -17,9 +17,12 @@ Adding new issues:
 ------------------
 For each issue create a new subdirectory named after the issue number and include a test application to highlight the bug.
 
-This can be achieved by forking the project, using 
+This can be achieved by forking the project (see GitHub for more details), then creating a new project by 
 "capp gen -l (issuenumber)"  (i.e. use symlinks to the frameworks)
 
-When adding the new subdirectory do:
+Add the test code then to add the new subdirectory do:
 "git add (issuenumber)/"
 "git commit -a"
+
+then push to your fork with 
+"git push"
