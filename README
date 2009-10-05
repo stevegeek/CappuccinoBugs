@@ -1,0 +1,22 @@
+CappuccinoBugs
+--------------
+
+
+The aim of this project is to create test applications for each issue on the cappuccino project http://github.com/280north/cappuccino/issues.
+
+Using test applications:
+------------------------
+Create a clone of the repository then if say the issue you wish to explore is 20 then
+"cd 20"
+"capp gen -l -f"
+
+This creates links to your local frameworks so the test application should then just work.
+
+Adding new issues:
+------------------
+For each issue create a new subdirectory named after the issue number and include a test application to highlight the bug.
+
+This can be achieved by forking the project, using 
+"capp gen -l (issuenumber)"  (i.e. use symlinks to the frameworks)
+
+When adding the new subdirectory do:
