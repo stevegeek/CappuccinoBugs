@@ -6,8 +6,8 @@ if !ENV['CONFIG']
     ENV['CONFIG'] = 'Debug'
 end
 
-ObjectiveJ::BundleTask.new(:279) do |t|
-    t.name          = '279'
+ObjectiveJ::BundleTask.new(:t279) do |t|
+    t.name          = 't279'
     t.identifier    = 'com.yourcompany.279'
     t.version       = '1.0'
     t.author        = 'Your Company'
@@ -22,4 +22,4 @@ ObjectiveJ::BundleTask.new(:279) do |t|
     t.flag          = '-O' if ENV['CONFIG'] == 'Release'
 end
 
-task :default => [:279]
+task :default => [:t279]
