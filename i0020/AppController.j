@@ -34,7 +34,11 @@
     
     var a = [[CPString JSONFromObject: [ null ] ]];
     
-    alert (a);
+    alert ("A = " + a);
+    
+    var b = [CPString stringWithString:[[CPString JSONFromObject: [ null ] ]]];
+    
+    alert ("B = " + b);
 
     // Uncomment the following line to turn on the standard menu bar.
     //[CPMenu setMenuBarVisible:YES];
