@@ -12,7 +12,7 @@
 		</object>
 		<object class="NSMutableArray" key="IBDocument.EditedObjectIDs">
 			<bool key="EncodedWithXMLCoder">YES</bool>
-			<integer value="371"/>
+			<integer value="372"/>
 		</object>
 		<object class="NSArray" key="IBDocument.PluginDependencies">
 			<bool key="EncodedWithXMLCoder">YES</bool>
@@ -1202,7 +1202,7 @@
 								<string key="NSContents">Button</string>
 								<reference key="NSSupport" ref="600569884"/>
 								<reference key="NSControlView" ref="809202507"/>
-								<int key="NSButtonFlags">-2038284033</int>
+								<int key="NSButtonFlags">-2046672641</int>
 								<int key="NSButtonFlags2">129</int>
 								<string key="NSAlternateContents"/>
 								<string key="NSKeyEquivalent"/>
@@ -1213,7 +1213,7 @@
 						<object class="NSButton" id="806648254">
 							<reference key="NSNextResponder" ref="439893737"/>
 							<int key="NSvFlags">268</int>
-							<string key="NSFrame">{{105, 342}, {96, 32}}</string>
+							<string key="NSFrame">{{103, 342}, {96, 32}}</string>
 							<reference key="NSSuperview" ref="439893737"/>
 							<bool key="NSEnabled">YES</bool>
 							<object class="NSButtonCell" key="NSCell" id="310844785">
@@ -1222,7 +1222,7 @@
 								<string key="NSContents">Button</string>
 								<reference key="NSSupport" ref="600569884"/>
 								<reference key="NSControlView" ref="806648254"/>
-								<int key="NSButtonFlags">-2038284033</int>
+								<int key="NSButtonFlags">-2046672641</int>
 								<int key="NSButtonFlags2">129</int>
 								<string key="NSAlternateContents"/>
 								<string key="NSKeyEquivalent"/>
@@ -1242,7 +1242,7 @@
 								<string key="NSContents">Button</string>
 								<reference key="NSSupport" ref="600569884"/>
 								<reference key="NSControlView" ref="824846604"/>
-								<int key="NSButtonFlags">-2038284033</int>
+								<int key="NSButtonFlags">-2046672641</int>
 								<int key="NSButtonFlags2">129</int>
 								<string key="NSAlternateContents"/>
 								<string key="NSKeyEquivalent"/>
@@ -1262,7 +1262,7 @@
 								<string key="NSContents">Button</string>
 								<reference key="NSSupport" ref="600569884"/>
 								<reference key="NSControlView" ref="142991555"/>
-								<int key="NSButtonFlags">-2038284033</int>
+								<int key="NSButtonFlags">-2046672641</int>
 								<int key="NSButtonFlags2">129</int>
 								<string key="NSAlternateContents"/>
 								<string key="NSKeyEquivalent"/>
@@ -1282,7 +1282,7 @@
 								<string key="NSContents">Button</string>
 								<reference key="NSSupport" ref="600569884"/>
 								<reference key="NSControlView" ref="13072461"/>
-								<int key="NSButtonFlags">-2038284033</int>
+								<int key="NSButtonFlags">-2046672641</int>
 								<int key="NSButtonFlags2">129</int>
 								<string key="NSAlternateContents"/>
 								<string key="NSKeyEquivalent"/>
@@ -1302,7 +1302,7 @@
 								<string key="NSContents">Button</string>
 								<reference key="NSSupport" ref="600569884"/>
 								<reference key="NSControlView" ref="977888998"/>
-								<int key="NSButtonFlags">-2038284033</int>
+								<int key="NSButtonFlags">-2046672641</int>
 								<int key="NSButtonFlags2">129</int>
 								<string key="NSAlternateContents"/>
 								<string key="NSKeyEquivalent"/>
@@ -1322,7 +1322,7 @@
 								<string key="NSContents">Button</string>
 								<reference key="NSSupport" ref="600569884"/>
 								<reference key="NSControlView" ref="136562085"/>
-								<int key="NSButtonFlags">-2038284033</int>
+								<int key="NSButtonFlags">-2046672641</int>
 								<int key="NSButtonFlags2">129</int>
 								<string key="NSAlternateContents"/>
 								<string key="NSKeyEquivalent"/>
@@ -1342,7 +1342,7 @@
 								<string key="NSContents">Button</string>
 								<reference key="NSSupport" ref="600569884"/>
 								<reference key="NSControlView" ref="3377545"/>
-								<int key="NSButtonFlags">-2038284033</int>
+								<int key="NSButtonFlags">-2046672641</int>
 								<int key="NSButtonFlags2">129</int>
 								<string key="NSAlternateContents"/>
 								<string key="NSKeyEquivalent"/>
@@ -1362,7 +1362,7 @@
 								<string key="NSContents">Button</string>
 								<reference key="NSSupport" ref="600569884"/>
 								<reference key="NSControlView" ref="169690461"/>
-								<int key="NSButtonFlags">-2038284033</int>
+								<int key="NSButtonFlags">-2046672641</int>
 								<int key="NSButtonFlags2">129</int>
 								<string key="NSAlternateContents"/>
 								<string key="NSKeyEquivalent"/>
@@ -3338,9 +3338,9 @@
 					<integer value="1"/>
 					<string>com.apple.InterfaceBuilder.CocoaPlugin</string>
 					<integer value="1"/>
-					<string>{{44, 230}, {930, 401}}</string>
+					<string>{{62, 229}, {930, 401}}</string>
 					<string>com.apple.InterfaceBuilder.CocoaPlugin</string>
-					<string>{{44, 230}, {930, 401}}</string>
+					<string>{{62, 229}, {930, 401}}</string>
 					<integer value="1"/>
 					<string>{{33, 99}, {480, 360}}</string>
 					<string>{3.40282e+38, 3.40282e+38}</string>
